@@ -10,8 +10,8 @@ description              : print "Hello github page!"
 url                      : https://Jirung-E.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : 대충사진.png
-logo                     : 대충사진.png
+teaser                   : 히히.jpg
+logo                     : 히히.jpg
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
