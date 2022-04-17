@@ -1,3 +1,7 @@
+logo: 대충사진.png
+show_downloads: true
+google_analytics:
+
 markdown: kramdown
 
 theme: jekyll-theme-minimal
