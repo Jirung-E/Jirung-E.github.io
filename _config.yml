@@ -7,16 +7,13 @@ title_separator : "-"
 description: print "Hello github page!"
 masthead_title : "이게 뭐징"
 
-author:
-  name             : "지렁이"
-  avatar           : "대충사진.png"
+owner:
+  name             : 지렁이
+  avatar           : 대충사진.png
   bio              : "한국공학대학교(Tech University of Korea)<br>신0천 소초"
   location         : "Republic of Korea"
   email            : "jh10590326@gmail.com"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Jirung-E"
+  github:          : https://github.com/Jirung-E
 
 # Site Footer
 footer:
