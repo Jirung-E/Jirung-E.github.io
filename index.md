@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: home
+author_profile: true
 ---
 
 [test_page](./_posts/2022-04-17-test_post.md).
