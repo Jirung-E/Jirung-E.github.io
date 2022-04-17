@@ -1,3 +1,10 @@
 theme: jekyll-theme-slate
 
-name: Jirung-E :~
+title: Jirung-E's Github Page
+description: print "Hello github page!"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jirung-e"
