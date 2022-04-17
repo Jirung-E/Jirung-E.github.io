@@ -1,19 +1,12 @@
-logo: 대충사진.png
-google_analytics:
-
 markdown: kramdown
-
 theme: jekyll-theme-minimal
 
 locale : "ko-KR"
-
 url: https://Jirung-E.github.io
 title: Jirung-E's Github Page
-title_separator : "-"
 description: print "Hello github page!"
-masthead_title : "이게 뭐징"
-cover: 대충사진.png
-favicon: 대충사진.png
+teaser: 대충사진.png
+logo: 대충사진.png
 
 owner:
   name             : 지렁이
