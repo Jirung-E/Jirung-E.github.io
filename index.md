@@ -3,6 +3,7 @@ layout: home
 author_profile: true
 ---
 
+[another_page](./another_page.md).
 [test_page](./_posts/2022-04-17-test_post.md).
 
 ### C/C++
