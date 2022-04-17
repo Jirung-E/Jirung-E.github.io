@@ -8,32 +8,20 @@ description: print "Hello github page!"
 teaser: 대충사진.png
 logo: 대충사진.png
 
-owner:
+author:
   name             : 지렁이
   avatar           : 대충사진.png
   bio              : "한국공학대학교(Tech University of Korea)<br>신0천 소초"
   location         : "Republic of Korea"
   email            : jh10590326@gmail.com
-  github           : https://github.com/Jirung-E
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Jirung-E"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Jirung-E"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
