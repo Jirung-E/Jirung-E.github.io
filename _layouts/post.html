@@ -3,8 +3,7 @@ layout: default
 ---
 
 <h1>{{ page.title }}</h1>
-<p class="view"> by {{ page.author | default: site.author }} &nbsp;&nbsp;&nbsp;<small style="display:inline"> {{ page.date | date: "%Y/%m/%d" }} </small> </p>
-<br>
+<p class="view"> &nbsp; by {{ page.author | default: site.author }} &nbsp; | &nbsp;<small style="display:inline"> {{ page.date | date: "%Y/%m/%d" }} </small> </p>
 <br>
 
 {{content}}
