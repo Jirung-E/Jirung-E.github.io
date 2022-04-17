@@ -32,7 +32,24 @@ Hello github page!
 
 ### Python
 ```python
-print("Hello github page!");
+print("Hello github page!")
+```
+output:
+```
+Hello github page!
+```
+
+- - -
+
+### Go
+```go
+pakage main
+
+import "fmt"
+
+func main() {
+  fmt.Println("Hello github page!")
+}
 ```
 output:
 ```
