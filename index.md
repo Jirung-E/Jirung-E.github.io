@@ -1,16 +1,42 @@
 ## Welcome to Jirung-E's GitHub Pages
 
+- - -
 
-```cpp
-#include <iostream>
+### C/C++
+```c
+#include <stdio.h>
 
 int main(void) {
-  using namespace std;
-  
-  cout << "Hello github page!" << endl;
+  printf("Hello github page!\n");
   
   return 0;
 }
+```
+output:
+```
+Hello github page!
+```
+
+- - -
+
+### Java
+```java
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello github page!");
+  }
+}
+```
+output:
+```
+Hello github page!
+```
+
+- - -
+
+### Python
+```python
+print("Hello github page!");
 ```
 output:
 ```
