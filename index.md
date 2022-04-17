@@ -1,7 +1,3 @@
-## Welcome to Jirung-E's GitHub Pages
-
-- - -
-
 ### C/C++
 ```c
 #include <stdio.h>
