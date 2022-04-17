@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Blog"
-    url: https://Jirung-E.github.io/
+    url: /blog/
   - title: "About"
-    url: https://Jirung-E.github.io/about
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
