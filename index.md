@@ -3,8 +3,7 @@ layout: home
 author_profile: true
 ---
 
-[another_page](./another-page.md).
-[test_page](./_posts/2022-04-17-test_post.md).
+##Hello Visitors!!
 
 ### C/C++
 ```c
