@@ -39,7 +39,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-'''cpp
+```cpp
 #include <iostream>
 
 int main(void) {
@@ -48,4 +48,4 @@ int main(void) {
   cout << "Hello github page!" << endl;
   
   return 0;
-'''
+```
