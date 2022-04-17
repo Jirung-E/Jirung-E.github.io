@@ -1,5 +1,4 @@
-logo: 대충사진.png
-show_downloads: true
+logo: #대충사진.png
 google_analytics:
 
 markdown: kramdown
@@ -45,6 +44,3 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
-include:
-  - _pages
