@@ -10,8 +10,8 @@ description              : print "Hello github page!"
 url                      : https://Jirung-E.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : 히히.jpg
-logo                     : 히히.jpg
+teaser                   : "assets/images/lol.jpg"
+logo                     : "assets/images/lol.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -89,8 +89,8 @@ analytics:
 # Site Author
 author:
   name             : "지렁이"
-  avatar           : "대충사진.png"
-  bio              : "한국공학대학교(Tech University of Korea)<br>신0천 소초"
+  avatar           : "assets/images/thinking.png"
+  bio              : "한국공학대학교(TU Korea)<br>신0천 소초"
   location         : "Republic of Korea"
   email            : jh10590326@gmail.com
   links:
