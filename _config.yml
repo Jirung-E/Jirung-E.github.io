@@ -1,3 +1,5 @@
+markdown: kramdown
+
 theme: jekyll-theme-minimal
 
 locale : "ko-KR"
