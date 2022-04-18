@@ -1,23 +1,22 @@
 ---
 layout: home
 author_profile: true
+title: "Hello Visitor!"
 ---
-
-## Hello Visitors!
 
 ### C/C++
 ```c
 #include <stdio.h>
 
 int main(void) {
-  printf("Hello github page!\n");
+  printf("Hello Visitor!\n");
   
   return 0;
 }
 ```
 output:
 ```
-Hello github page!
+Hello Visitor!
 ```
 
 - - -
@@ -26,24 +25,24 @@ Hello github page!
 ```java
 public class Main {
   public static void main(String[] args) {
-    System.out.println("Hello github page!");
+    System.out.println("Hello Visitor!");
   }
 }
 ```
 output:
 ```
-Hello github page!
+Hello Visitor!
 ```
 
 - - -
 
 ### Python
 ```python
-print("Hello github page!")
+print("Hello Visitor!")
 ```
 output:
 ```
-Hello github page!
+Hello Visitor!
 ```
 
 - - -
@@ -55,10 +54,23 @@ pakage main
 import "fmt"
 
 func main() {
-  fmt.Println("Hello github page!")
+  fmt.Println("Hello Visitor!")
 }
 ```
 output:
 ```
-Hello github page!
+Hello Visitor!
+```
+
+- - -
+
+### Kotlin
+```kotlin
+fun main(args: Array<String>) {
+    println("Hello Visitor!")
+}
+```
+output:
+```
+Hello Visitor!
 ```
