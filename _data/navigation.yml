@@ -1,12 +1,8 @@
 # main links
 main:
-  - title: "Blog"
-    url: /blog/test_post/
+  - title: "Categories"
+    url: /category-archive/
+  - title: "Tags"
+    url: /tag-archive
   - title: "About"
     url: /about/
-  - title: "Category"
-    url: /categories/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
