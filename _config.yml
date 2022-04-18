@@ -2,11 +2,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : Jirung-E's Github Page
+title                    : Jirung-E's Blog
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : print "Hello github page!"
+name                     : "Jirung-E"
+description              : "print Hello Visitor!"
 url                      : https://Jirung-E.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -90,7 +90,7 @@ analytics:
 author:
   name             : "지렁이"
   avatar           : "assets/images/thinking.png"
-  bio              : " - 한국공학대학교(TU Korea)<br/>이거 외않되?<br/>이게 웨뒈?"
+  bio              : " - 한국공학대학교(TU Korea)<br/>"
   location         : "Republic of Korea"
   email            : "jh10590326@gmail.com"
   links:
