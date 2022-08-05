@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-permalink: /categories/blog/
+permalink: /blog/
 layout: category
 author_profile: true
 taxonomy: Blog
