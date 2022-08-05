@@ -11,3 +11,10 @@ layout: single
 참고중인곳: <https://devinlife.com/howto/><br/>
 이 곳에서 이 샘플 블로그를 같이 만들어보는 Github Pages 블로그 따라하기 시리즈의
 모든 글을 볼 수 있습니다.
+  
+  
+## Me
+
+한국공학대학교 게임공학과 재학중(2020학번)
+게임 안함
+주력 언어: C/C++
