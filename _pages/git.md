@@ -6,4 +6,4 @@ author_profile: true
 taxonomy: Git
 ---
 
-블로그
+Git에 대해 알아봅시다
