@@ -2,4 +2,4 @@
 
 
 참고중 : <https://devinlife.com/howto/>  
-원문: <https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#remove-the-unnecessary>
+원문: <https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/>
