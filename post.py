@@ -2,6 +2,7 @@
 
 # 현재 시간 알아내기, 파일 불러오기
 # 현재 시간으로 제목 설정
+# 엔터 적용
 # 불러온 파일을 본문으로 해서 _posts폴더 안에 포스트 생성
 
 from datetime import datetime
