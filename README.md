@@ -4,6 +4,12 @@
 참고중 : <https://devinlife.com/howto/>  
 원문: <https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/>
 
+## 포스팅 방법
+command line:
+```
+./post post1.md post2.md
+```
+
 
 ### 포스트 작성법
 ```md
