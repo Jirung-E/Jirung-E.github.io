@@ -7,7 +7,7 @@
 ## 포스팅 방법
 command line:
 ```
-./post post1.md post2.md
+./makepost post1.md post2.md
 ```
 
 
