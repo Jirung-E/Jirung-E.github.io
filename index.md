@@ -74,3 +74,16 @@ output:
 ```
 Hello Visitor!
 ```
+
+- - -
+
+### Rust
+```rs
+fn main() {
+    println!("Hello Visitor!");
+}
+```
+output:
+```
+Hello Visitor!
+```
