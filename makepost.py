@@ -12,20 +12,20 @@ from datetime import datetime
 
 def makePost(file):
     head = '''---
-    title: "{title}"
-    excerpt: "{excerpt}"
-    last_modified_at: {now}
+title: "{title}"
+excerpt: "{excerpt}"
+last_modified_at: {now}
 
-    categories: 
-    - {category}
+categories: 
+  - {category}
 
-    tags: {tags}
+tags: {tags}
 
-    toc: true
-    toc_sticky: true
-    ---
+toc: true
+toc_sticky: true
+---
 
-    '''
+'''
 
     body_file = open(file, "r")
 
@@ -60,9 +60,7 @@ def makePost(file):
     # 남은거 읽기
     body = "\n"
     for line in body_file:
-        if line == "\n":
-            continue
-        body += line.replace("\n", "  ") + "\n"
+        body += line.replace("\n", "  \n")
 
     current_time = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
 
@@ -71,7 +69,7 @@ def makePost(file):
     print("::PREVIEW::")
     print(post)
 
-    if input("Post? (y/n) ").lower() == "y":
+    if input("Post? (y/n)\n> ").lower() == "y":
         post_file = open("_posts/" + current_time[:10] + "-" + title.replace(" ", "-") + ".md", "w")
         post_file.write(post)
         post_file.close()
