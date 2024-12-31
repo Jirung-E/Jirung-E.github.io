@@ -27,7 +27,7 @@ toc_sticky: true
 
 '''
 
-    body_file = open(file, "r")
+    body_file = open(file, "r", encoding="utf-8")
 
     # 첫줄 빼와서 제목으로 쓰기
     title = body_file.readline().replace("#", "").strip()
@@ -70,7 +70,7 @@ toc_sticky: true
     print(post)
 
     if input("Post? (y/n)\n> ").lower() == "y":
-        post_file = open("_posts/" + current_time[:10] + "-" + title.replace(" ", "-") + ".md", "w")
+        post_file = open("_posts/" + current_time[:10] + "-" + title.replace(" ", "-") + ".md", "w", encoding="utf-8")
         post_file.write(post)
         post_file.close()
         print("Posted.")
