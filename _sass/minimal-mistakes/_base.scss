@@ -123,25 +123,6 @@ blockquote {
   }
 }
 
-p {
-  blockquote {
-    margin: 0 0 0 0;
-    padding-left: 1em;
-    padding-right: 1em;
-    font-style: italic;
-    border-left: 0.25em solid $primary-color;
-
-    cite {
-      font-style: italic;
-
-      &:before {
-        content: "\2014";
-        padding-right: 5px;
-      }
-    }
-  }
-}
-
 /* links */
 
 a {
@@ -218,15 +199,8 @@ li ol {
   margin-top: 0.5em;
 }
 
-ul {
-  margin: 0 0 0 0;
-  padding-left: 1em;
-  padding-right: 1em;
 
-  li {
-    list-style-type: disc;
-  }
-}
+
 
 /*
    Media and embeds
