@@ -107,9 +107,11 @@ abbr[data-original-title] {
 /* blockquotes */
 
 blockquote {
-  margin: 0 0 0 0;
+  margin: 0.2em 0 0.2em 0;
   padding-left: 1em;
   padding-right: 1em;
+  // 폰트 회색으로
+  color: $muted-text-color;
   font-style: italic;
   border-left: 0.25em solid $primary-color;
 
